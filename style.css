@@ -53,17 +53,17 @@ p {
 .info {
     flex-wrap: wrap;
     width: 1100px;
-    margin: 20px;
+    margin: 0px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     
 }
 
 article {
     background-color: white;
-    padding: 50px ;
+    padding: 10px ;
     width: 400px;
-    margin: 50px ;
+    margin: 10px ;
 }
 
 .article-but {
